@@ -96,7 +96,7 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 ---
 
 ### 📫 Connect with Me
-
+  Linkdin:www.linkedin.com/in/shashank-reddy-b11479372
 - 📧 shashank.velumula28@gmail.com
 - 💻 [GitHub](https://github.com/shashank2892)
 
