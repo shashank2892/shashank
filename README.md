@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm SHASHANK VELUMULA 👋</h1>
+# <h1 align="center">Hi, I'm SHASHANK  👋</h1>
 <h3 align="center">DevOps Engineer | AWS • Kubernetes • Terraform • CI/CD</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm a results-driven DevOps Engineer with 4+ years of experience designing, automating, and scaling cloud infrastructure on AWS. I specialize in Terraform, Kubernetes (EKS), and Docker, with a strong focus on building end-to-end CI/CD pipelines using Jenkins and ArgoCD.
+I'm a results-driven DevOps Engineer with 3+ years of experience designing, automating, and scaling cloud infrastructure on AWS. I specialize in Terraform, Kubernetes (EKS), and Docker, with a strong focus on building end-to-end CI/CD pipelines using Jenkins and ArgoCD.
 
 I’m passionate about GitOps-driven workflows, infrastructure automation, and building highly available, production-grade systems.
 
@@ -65,15 +65,11 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 
 ---
 
-### 💼 Experience Highlights
-
-**DevOps Engineer — HTC Global Services** *(May 2024 – Present)*
+### 
 - Architected containerized microservices on Amazon EKS with Helm-based deployments
 - Built end-to-end CI/CD pipelines using Jenkins and ArgoCD with GitOps-based releases
 - Designed modular Terraform infrastructure with remote state management
 - Implemented monitoring with CloudWatch, Prometheus, and Grafana
-
-**DevOps Engineer — Deloitte** *(Oct 2021 – Aug 2023)*
 - Provisioned AWS infrastructure using reusable Terraform modules (EC2, VPC, S3, IAM)
 - Automated configuration management using Ansible playbooks and roles
 - Supported CI/CD pipeline integration and cross-functional release coordination
@@ -82,8 +78,8 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 
 ### 🎓 Education & Certifications
 
-- **B.Tech, Electronics and Communication Engineering** — Sri Venkateswara Institute of Technology (SVIT), Anantapur
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **B.Tech, Electrical and Electronics Engineering** — Sri Chaitanya Institute of Technology and Sciences (SCIT), Karimnagar
+
 
 ---
 
@@ -101,8 +97,7 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagalakshmi-h/)
-- 📧 nagalakshmih71@gmail.com
+- 📧 shashank.velumula28@gmail.com
 - 💻 [GitHub](https://github.com/shashank2892)
 
 ---
