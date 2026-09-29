@@ -85,9 +85,7 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank2892&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank2892&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
