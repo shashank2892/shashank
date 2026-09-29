@@ -81,18 +81,6 @@ I’m passionate about GitOps-driven workflows, infrastructure automation, and b
 - **B.Tech, Electrical and Electronics Engineering** — Sri Chaitanya Institute of Technology and Sciences (SCIT), Karimnagar
 
 
----
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank2892&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
   Linkdin:www.linkedin.com/in/shashank-reddy-b11479372
 - 📧 shashank.velumula28@gmail.com
